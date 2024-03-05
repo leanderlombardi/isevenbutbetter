@@ -1,0 +1,24 @@
+{
+  "name": "isevenbutbetter",
+  "version": "1.0.1",
+  "description": "is-even but better",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leanderlombardi/isevenbutbetter.git"
+  },
+  "keywords": [
+    "even",
+    "is-even",
+    "is"
+  ],
+  "author": "Leander Lombardi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leanderlombardi/isevenbutbetter/issues"
+  },
+  "homepage": "https://github.com/leanderlombardi/isevenbutbetter#readme"
+}
